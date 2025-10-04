@@ -9,4 +9,4 @@ because I make them all with love <3
  - Also make websites for people who need using WordPress🛜
 
 ## Tech stack
-C++, Python, SQL, WordPress, Zed
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" /> <img src="https://zed.dev/_next/static/media/stable-app-logo.9b5f959f.png" height=40 alt="Zed" />
